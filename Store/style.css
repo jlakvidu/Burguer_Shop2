@@ -1,0 +1,66 @@
+body {
+    background-image: url('/img/mos%20background%20image.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+hr{
+    
+    height: 5px;
+    background-color: #c52b2b;
+    
+    padding: -300;
+}
+
+#mainBtn{
+    background-color: #FFBD59; 
+    font-weight: 600;
+    color: #FF3132;
+    margin-top: 15px;
+    font-size: 2vw;
+}
+
+#mainExitBtn{
+    background-color: #FFBD59;
+    font-weight: bolder;
+    color: #FF3132;
+    margin-top: 20px;
+    font-size: 1vw;
+    
+}
+
+#search-button{
+    background-color: #FF3132;
+    font-weight: bolder;
+    color: #FFBD59;
+    margin-top: 20px;
+    font-size: 1vw;
+    
+}
+
+#subBtnS{
+    background-color: #FF3132;
+    font-weight: bolder;
+    color: #FFBD59;
+    font-size: 1vw;
+}
+
+#titleText{
+    color: #FFBD59;
+    font-weight: 700;
+    font-size: 3vw;
+}
+
+#partition{
+    background-color: #FFBD59;
+    width: 100%;
+    height: 600px;
+    margin-top: -16px;
+}
+
+#subtitle{
+    color: #FF3132;
+    font-weight: 600;
+    font-size: 2vw;
+}
